@@ -1,2 +1,3 @@
-# super-data-visualizer-jjnx
-Automated issue comment bot repository
+# Super Data Visualizer Jjnx
+
+Automated issue comment bot repository.
